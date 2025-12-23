@@ -1,4 +1,4 @@
-# Factorio-Mall 异星工场超市
+# Factorio Auto-Mall 异星工场全自动超市
 
 Basic Unit 基本单元:
 ```
